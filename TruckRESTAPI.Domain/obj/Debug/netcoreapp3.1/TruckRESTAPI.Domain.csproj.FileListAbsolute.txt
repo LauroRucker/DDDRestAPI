@@ -1,0 +1,9 @@
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.deps.json
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.csprojAssemblyReference.cache

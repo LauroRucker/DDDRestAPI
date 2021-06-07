@@ -1,0 +1,16 @@
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\bin\Debug\netcoreapp3.1\TruckRESTAPI.Application.deps.json
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\bin\Debug\netcoreapp3.1\TruckRESTAPI.Application.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\bin\Debug\netcoreapp3.1\TruckRESTAPI.Application.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\obj\Debug\netcoreapp3.1\TruckRESTAPI.Application.csprojAssemblyReference.cache
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\obj\Debug\netcoreapp3.1\TruckRESTAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\obj\Debug\netcoreapp3.1\TruckRESTAPI.Application.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\obj\Debug\netcoreapp3.1\TruckRESTAPI.Application.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\obj\Debug\netcoreapp3.1\TruckRESTAPI.Application.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Core.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Core.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\obj\Debug\netcoreapp3.1\TruckRESTAPI.Application.csproj.CopyComplete
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Application\obj\Debug\netcoreapp3.1\TruckRESTAPI.Application.csproj.CoreCompileInputs.cache

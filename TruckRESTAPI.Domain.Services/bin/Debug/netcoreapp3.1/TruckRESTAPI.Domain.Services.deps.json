@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TruckRESTAPI.Domain.Services/1.0.0": {
+        "dependencies": {
+          "TruckRESTAPI.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "TruckRESTAPI.Domain.Services.dll": {}
+        }
+      },
+      "TruckRESTAPI.Domain/1.0.0": {
+        "runtime": {
+          "TruckRESTAPI.Domain.dll": {}
+        }
+      },
+      "TruckRESTAPI.Domain.Core/1.0.0": {
+        "dependencies": {
+          "TruckRESTAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TruckRESTAPI.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TruckRESTAPI.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TruckRESTAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TruckRESTAPI.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

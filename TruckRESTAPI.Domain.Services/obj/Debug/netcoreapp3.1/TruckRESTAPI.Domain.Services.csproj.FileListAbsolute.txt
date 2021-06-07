@@ -1,0 +1,14 @@
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.deps.json
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Core.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.dll
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Core.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\bin\Debug\netcoreapp3.1\TruckRESTAPI.Domain.pdb
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.csprojAssemblyReference.cache
+C:\Users\Alessandra\source\repos\TruckRESTAPI\TruckRESTAPI.Domain.Services\obj\Debug\netcoreapp3.1\TruckRESTAPI.Domain.Services.csproj.CopyComplete
